@@ -1,0 +1,15 @@
+﻿  Source.cpp
+Y:\repository\ugolkiGame\ugolkiGame\Source.cpp(78,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+Y:\repository\ugolkiGame\ugolkiGame\Source.cpp(79,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+Y:\repository\ugolkiGame\ugolkiGame\Source.cpp(112,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\ugolkiGame\ugolkiGame\Source.cpp(112,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Y:\repository\ugolkiGame\ugolkiGame\Source.cpp(163,20): warning C4305: аргумент: усечение из "int" в "bool"
+  ugolkiGame.vcxproj -> Y:\repository\ugolkiGame\Debug\ugolkiGame.exe
